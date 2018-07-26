@@ -28,5 +28,5 @@ Display/Color Setting: Color Accuracy: Disabled
 Others: default
 
 ### Result
-![result](result1.png)
+[result1.png](result1.png)
 
