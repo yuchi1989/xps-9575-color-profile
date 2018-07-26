@@ -5,7 +5,7 @@ If you find your laptop oversaturated, you can try my [color profile](./FNVDR-LQ
 
 If you are doing professional stuff such as photo editing, you may need to calibrate and profile your laptop yourself since we may have different working environments.  
 
-The profile can partly adjust the display for non color managed software. The color is correct only for color managed software, such as Chrome, Firefox, Adobe software, GIMP and so on. You may need to explicitly enable the color management for some of them.  
+The profile can partly adjust the display for non color managed software. The profile is effective for color managed software, such as Chrome, Firefox, Adobe software, GIMP and so on. You may need to explicitly enable the color management for some of them.  
 
 For color managed video playing, refer to [madvr](http://madvr.com/).  
 For color managed gaming, refer to [reshade](https://reshade.me/).  
