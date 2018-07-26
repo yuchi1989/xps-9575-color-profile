@@ -16,7 +16,9 @@ OS: Win10 pro 1709
 Build version: 10.0.16299  
 Intel driver version: 24.20.100.6194  
 Radeon RX Vega m version: 18.6.1  
-### Setting
+Dell Premier Color removed.  
+Intel control panel color accuracy: disabled  
+### My Calibrating and Profiling Setting
 Dell Premier Color removed.  
 #### DisplayCAL setting
 Color temperature: 6500K Daylight  
