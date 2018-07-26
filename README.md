@@ -28,5 +28,8 @@ Display/Color Setting: Color Accuracy: Disabled
 Others: default
 
 ### Result
+99.9% sRGB  
+99.0% Adobe RGB  
+92.7% DCI P3  
 [result1.png](result1.png)
 
