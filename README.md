@@ -8,7 +8,7 @@ If you are doing professional stuff such as photo editing, you may need to calib
 The profile can partly adjust the display for non color managed software. The color is correct only for color managed software, such as Chrome, Firefox, Adobe software, GIMP and so on. You may need to explicitly enable the color management for some of them.  
 
 For color managed video playing, refer to [madvr](http://madvr.com/).  
-For color managed gaming, refer to (reshade)[https://reshade.me/].  
+For color managed gaming, refer to [reshade](https://reshade.me/).  
 ### Environment
 Laptop: XPS 9575 4k UHD  
 BIOS: 1.1.5  
