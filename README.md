@@ -1,7 +1,7 @@
 # xps-9575-color-profile
 ### Introduction
 I calibrate and profile my XPS 15 2 in 1(9575) UHD laptop using ColorMunki Display, DisplayCAL 3.6 and ArgyllCMS 2.0.
-If you find your laptop oversaturated, you can try my [color profile](./FNVDR-LQ156D1%20%231%202018-07-23%2019-19%20D6500%202.2%20M-S%20XYZLUT%2BMTX.icm). I am still learning calibrating and profiling. If you find some issues about my color profile, please let me know.  
+If you find your laptop over-saturated(wide gamut monitor), you can try my [color profile](./FNVDR-LQ156D1%20%231%202018-07-23%2019-19%20D6500%202.2%20M-S%20XYZLUT%2BMTX.icm). I am still learning calibrating and profiling. If you find some issues about my color profile, please let me know.  
 
 If you are doing professional stuff such as photo editing, you may need to calibrate and profile your laptop yourself since we may have different working environments.  
 
