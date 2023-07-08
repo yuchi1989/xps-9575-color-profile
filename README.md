@@ -9,6 +9,7 @@ The profile can partly adjust the display for non color managed software. The pr
 
 For color managed video playing, refer to [madvr](http://madvr.com/).  
 For color managed gaming, refer to [reshade](https://reshade.me/).  
+For all applications including color managed and non color managed, use [dwm_lut](https://github.com/lauralex/dwm_lut)
 ### Environment
 Laptop: XPS 9575 4k UHD  
 BIOS: 1.1.5  
